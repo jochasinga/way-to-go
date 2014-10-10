@@ -1,0 +1,6 @@
+package matrix
+
+type matrix struct {
+}
+
+func NewMatrix(params)
